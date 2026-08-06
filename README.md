@@ -18,8 +18,8 @@ This repository is designed to organize and store all of my Cloud Computing cour
 ## 👤 Student Information
 
 * **Name:** MALLARE MARC LOURICH N.
-* **Course/Section:** [Your Program & Section]
-* **Instructor:** [Instructor Name]
+* **Course/Section:** [BSIT - 4I]
+* **Instructor:** [Jenkielyn Torres]
 * **School Year:** 2026–2027
 
 ---
