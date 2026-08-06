@@ -1,6 +1,6 @@
 # Cloud Computing Course Repository
 
-> *A repository containing course activities, projects, notes, and learning materials for Cloud Computing.*
+> *A collection of activities, outputs, and learning resources for Cloud Computing.*
 
 ---
 
@@ -17,9 +17,9 @@ This repository is designed to organize and store all of my Cloud Computing cour
 
 ## 👤 Student Information
 
-* **Name:** Fernandez, Trisha Sofia G.
-* **Course/Section:** [BSIT - 4I]
-* **Instructor:** [Jenkielyn Torres]
+* **Name:** Fernandez Trisha Sofia G.
+* **Course/Section:** BSIT - 4I
+* **Instructor:** Jenkielyn Torres
 * **School Year:** 2026–2027
 
 ---
@@ -37,7 +37,7 @@ cloud-computing-course/
 
 ---
 
-## 📖 Topics Covered
+## 📖 Key Concepts Covered
 
 * Fundamentals of Cloud Computing
 * Cloud Service Models (IaaS, PaaS, SaaS)
